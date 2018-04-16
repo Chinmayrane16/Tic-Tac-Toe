@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="player_1_wins">Player 1 Wins</string>
+    <string name="player_2_wins">Player 2 Wins</string>
+    <string name="draw">It\'s a Tie</string>
+
+    <string name="player_1_move">O</string>
+    <string name="player_2_move">X</string>
+
+
+    <string name="restart_message">Do you want to restart the game?  </string>
+
+
+    <string name="restart_button_text_initially">Start New Game</string>
+    <string name="restart_button_text_in_middle_of_game">Restart Game</string>
+
+
+
+</resources>
